@@ -1,0 +1,10 @@
+title: Arizona Meshtastic
+description: Arizona Meshtastic Community
+baseurl: /
+url: https://azmsh.dev
+
+theme: hacked-jekyll
+
+exclude:
+  - LICENSE
+  - README.md
