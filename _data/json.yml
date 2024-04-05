@@ -1,6 +1,5 @@
 - key: Project
   value: azmsh
-  typed: true
 - key: Description
   value:
     - Hello! 
